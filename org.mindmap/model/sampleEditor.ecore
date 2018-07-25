@@ -13,6 +13,6 @@
   <eClassifiers xsi:type="ecore:EClass" name="Relation">
     <eStructuralFeatures xsi:type="ecore:EReference" name="source" lowerBound="1"
         eType="#//Topic"/>
-    <eStructuralFeatures xsi:type="ecore:EReference" name="target" eType="#//Topic"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="target1" eType="#//Topic"/>
   </eClassifiers>
 </ecore:EPackage>
