@@ -15,4 +15,5 @@
         eType="#//Topic"/>
     <eStructuralFeatures xsi:type="ecore:EReference" name="target" eType="#//Topic"/>
   </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="AddedClass" abstract="true"/>
 </ecore:EPackage>
