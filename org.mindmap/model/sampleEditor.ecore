@@ -10,7 +10,7 @@
   <eClassifiers xsi:type="ecore:EClass" name="Topic">
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="Relation">
+  <eClassifiers xsi:type="ecore:EClass" name="Relation" eSuperTypes="#//Topic">
     <eStructuralFeatures xsi:type="ecore:EReference" name="source" lowerBound="1"
         eType="#//Topic"/>
     <eStructuralFeatures xsi:type="ecore:EReference" name="target" eType="#//Topic"/>
