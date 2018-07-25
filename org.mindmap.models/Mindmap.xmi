@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mindmup:Mindmap xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mindmup="http://org.mindmup/" xsi:schemaLocation="http://org.mindmup/ ../org.mindmap/model/sampleEditor.ecore">
+  <relations xsi:type="mindmup:Topic" name="theater"/>
+  <relations xsi:type="mindmup:Topic" name="art"/>
+  <relations xsi:type="mindmup:Topic" name="music"/>
+  <relations xsi:type="mindmup:Topic" name="football"/>
+  <relations xsi:type="mindmup:Topic" name="sport"/>
+  <relations xsi:type="mindmup:Topic" name="rugby"/>
+  <relations source="//@relations.1" target="//@relations.0"/>
+  <relations source="//@relations.1" target="//@relations.2"/>
+  <relations source="//@relations.4" target="//@relations.3"/>
+  <relations source="//@relations.4" target="//@relations.5"/>
+</mindmup:Mindmap>

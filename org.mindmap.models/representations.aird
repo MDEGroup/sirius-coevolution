@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:mindmup="http://org.mindmup/" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://org.mindmup/ platform:/resource/org.mindmap/model/sampleEditor.ecore http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis xmi:id="_LDYlgI_sEeip-9dfeEA-3A" selectedViews="_OhttkI_sEeip-9dfeEA-3A" version="12.1.0.201708031200">
+    <semanticResources>Mindmap.xmi</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" xmi:id="_OhttkI_sEeip-9dfeEA-3A">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" xmi:id="_PrjqgI_sEeip-9dfeEA-3A" name="new mindmap" repPath="#_PqDOoI_sEeip-9dfeEA-3A">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']"/>
+        <target xmi:type="mindmup:Mindmap" href="Mindmap.xmi#/"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram xmi:id="_PrbusI_sEeip-9dfeEA-3A" name="new mindmap" uid="_PqDOoI_sEeip-9dfeEA-3A">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_PrbusY_sEeip-9dfeEA-3A" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" xmi:id="_Prbuso_sEeip-9dfeEA-3A"/>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_PsRcMI_sEeip-9dfeEA-3A" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_PsRcMY_sEeip-9dfeEA-3A" type="Sirius" element="_PrbusI_sEeip-9dfeEA-3A" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_dmyPQI_sEeip-9dfeEA-3A" type="2001" element="_dmTuII_sEeip-9dfeEA-3A">
+          <children xmi:type="notation:Node" xmi:id="_dm3u0I_sEeip-9dfeEA-3A" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_dm3u0Y_sEeip-9dfeEA-3A" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_dm8nUI_sEeip-9dfeEA-3A" type="3003" element="_dmab0I_sEeip-9dfeEA-3A">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_dm8nUY_sEeip-9dfeEA-3A" fontName="Ubuntu"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dm8nUo_sEeip-9dfeEA-3A"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_dmyPQY_sEeip-9dfeEA-3A" fontName="Ubuntu" fontHeight="8" bold="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dmyPQo_sEeip-9dfeEA-3A" x="195" y="125" width="176" height="81"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_tta7oI_sEeip-9dfeEA-3A" type="2001" element="_ttM5MI_sEeip-9dfeEA-3A">
+          <children xmi:type="notation:Node" xmi:id="_ttcJwI_sEeip-9dfeEA-3A" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_ttcJwY_sEeip-9dfeEA-3A" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_ttcw0I_sEeip-9dfeEA-3A" type="3003" element="_ttNgQI_sEeip-9dfeEA-3A">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_ttcw0Y_sEeip-9dfeEA-3A" fontName="Ubuntu"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ttcw0o_sEeip-9dfeEA-3A"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_tta7oY_sEeip-9dfeEA-3A" fontName="Ubuntu" fontHeight="8" bold="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tta7oo_sEeip-9dfeEA-3A" x="195" y="270" width="176" height="81"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_uuSiwI_sEeip-9dfeEA-3A" type="2001" element="_uuGVgI_sEeip-9dfeEA-3A">
+          <children xmi:type="notation:Node" xmi:id="_uuTJ0I_sEeip-9dfeEA-3A" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_uuTJ0Y_sEeip-9dfeEA-3A" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_uuTw4I_sEeip-9dfeEA-3A" type="3003" element="_uuGVgY_sEeip-9dfeEA-3A">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_uuTw4Y_sEeip-9dfeEA-3A" fontName="Ubuntu"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uuTw4o_sEeip-9dfeEA-3A"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_uuSiwY_sEeip-9dfeEA-3A" fontName="Ubuntu" fontHeight="8" bold="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uuSiwo_sEeip-9dfeEA-3A" x="195" y="400" width="176" height="81"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_vLA7AI_sEeip-9dfeEA-3A" type="2001" element="_vK4YII_sEeip-9dfeEA-3A">
+          <children xmi:type="notation:Node" xmi:id="_vLBiEI_sEeip-9dfeEA-3A" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_vLBiEY_sEeip-9dfeEA-3A" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_vLCJII_sEeip-9dfeEA-3A" type="3003" element="_vK4YIY_sEeip-9dfeEA-3A">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_vLCJIY_sEeip-9dfeEA-3A" fontName="Ubuntu"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vLCJIo_sEeip-9dfeEA-3A"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_vLA7AY_sEeip-9dfeEA-3A" fontName="Ubuntu" fontHeight="8" bold="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vLA7Ao_sEeip-9dfeEA-3A" x="560" y="130" width="176" height="81"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_v0QFQI_sEeip-9dfeEA-3A" type="2001" element="_v0FGII_sEeip-9dfeEA-3A">
+          <children xmi:type="notation:Node" xmi:id="_v0QsUI_sEeip-9dfeEA-3A" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_v0QsUY_sEeip-9dfeEA-3A" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_v0RTYI_sEeip-9dfeEA-3A" type="3003" element="_v0FGIY_sEeip-9dfeEA-3A">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_v0RTYY_sEeip-9dfeEA-3A" fontName="Ubuntu"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_v0RTYo_sEeip-9dfeEA-3A"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_v0QFQY_sEeip-9dfeEA-3A" fontName="Ubuntu" fontHeight="8" bold="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_v0QFQo_sEeip-9dfeEA-3A" x="560" y="270" width="176" height="81"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_wcZqYI_sEeip-9dfeEA-3A" type="2001" element="_wcS8sI_sEeip-9dfeEA-3A">
+          <children xmi:type="notation:Node" xmi:id="_wcZqY4_sEeip-9dfeEA-3A" type="5002">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_wcZqZI_sEeip-9dfeEA-3A" y="5"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_wcaRcI_sEeip-9dfeEA-3A" type="3003" element="_wcS8sY_sEeip-9dfeEA-3A">
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_wcaRcY_sEeip-9dfeEA-3A" fontName="Ubuntu"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wcaRco_sEeip-9dfeEA-3A"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_wcZqYY_sEeip-9dfeEA-3A" fontName="Ubuntu" fontHeight="8" bold="true"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wcZqYo_sEeip-9dfeEA-3A" x="560" y="400" width="176" height="81"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_PsRcMo_sEeip-9dfeEA-3A"/>
+        <edges xmi:type="notation:Edge" xmi:id="_GCgQII_tEeip-9dfeEA-3A" type="4001" element="_GB-rsI_tEeip-9dfeEA-3A" source="_tta7oI_sEeip-9dfeEA-3A" target="_dmyPQI_sEeip-9dfeEA-3A">
+          <children xmi:type="notation:Node" xmi:id="_GCisYI_tEeip-9dfeEA-3A" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GCisYY_tEeip-9dfeEA-3A" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_GCkhkI_tEeip-9dfeEA-3A" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GCkhkY_tEeip-9dfeEA-3A" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_GClvsI_tEeip-9dfeEA-3A" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GClvsY_tEeip-9dfeEA-3A" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_GCgQIY_tEeip-9dfeEA-3A"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_GCgQIo_tEeip-9dfeEA-3A" fontName="Ubuntu" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_GCgQI4_tEeip-9dfeEA-3A" points="[0, 0, 0, 64]$[0, -64, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_GCr2UI_tEeip-9dfeEA-3A" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_GCr2UY_tEeip-9dfeEA-3A" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_GxLUAI_tEeip-9dfeEA-3A" type="4001" element="_Gw61UI_tEeip-9dfeEA-3A" source="_tta7oI_sEeip-9dfeEA-3A" target="_uuSiwI_sEeip-9dfeEA-3A">
+          <children xmi:type="notation:Node" xmi:id="_GxMiII_tEeip-9dfeEA-3A" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GxMiIY_tEeip-9dfeEA-3A" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_GxMiIo_tEeip-9dfeEA-3A" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GxMiI4_tEeip-9dfeEA-3A" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_GxNJMI_tEeip-9dfeEA-3A" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GxNJMY_tEeip-9dfeEA-3A" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_GxLUAY_tEeip-9dfeEA-3A"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_GxLUAo_tEeip-9dfeEA-3A" fontName="Ubuntu" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_GxLUA4_tEeip-9dfeEA-3A" points="[0, 0, 0, -49]$[0, 49, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_GxOXUI_tEeip-9dfeEA-3A" id="(0.48295454545454547,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_GxOXUY_tEeip-9dfeEA-3A" id="(0.48295454545454547,0.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_HRzU0I_tEeip-9dfeEA-3A" type="4001" element="_HRrZAI_tEeip-9dfeEA-3A" source="_v0QFQI_sEeip-9dfeEA-3A" target="_vLA7AI_sEeip-9dfeEA-3A">
+          <children xmi:type="notation:Node" xmi:id="_HRz74I_tEeip-9dfeEA-3A" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HRz74Y_tEeip-9dfeEA-3A" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_HR0i8I_tEeip-9dfeEA-3A" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HR0i8Y_tEeip-9dfeEA-3A" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_HR0i8o_tEeip-9dfeEA-3A" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HR0i84_tEeip-9dfeEA-3A" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_HRzU0Y_tEeip-9dfeEA-3A"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_HRzU0o_tEeip-9dfeEA-3A" fontName="Ubuntu" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_HRzU04_tEeip-9dfeEA-3A" points="[0, 0, 0, 59]$[0, -59, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_HR1KAI_tEeip-9dfeEA-3A" id="(0.5,0.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_HR1KAY_tEeip-9dfeEA-3A" id="(0.5,1.0)"/>
+        </edges>
+        <edges xmi:type="notation:Edge" xmi:id="_InJ-MI_tEeip-9dfeEA-3A" type="4001" element="_InCpcI_tEeip-9dfeEA-3A" source="_v0QFQI_sEeip-9dfeEA-3A" target="_wcZqYI_sEeip-9dfeEA-3A">
+          <children xmi:type="notation:Node" xmi:id="_InKlQI_tEeip-9dfeEA-3A" type="6001">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_InKlQY_tEeip-9dfeEA-3A" y="-10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_InKlQo_tEeip-9dfeEA-3A" type="6002">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_InKlQ4_tEeip-9dfeEA-3A" y="10"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_InKlRI_tEeip-9dfeEA-3A" type="6003">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_InKlRY_tEeip-9dfeEA-3A" y="10"/>
+          </children>
+          <styles xmi:type="notation:ConnectorStyle" xmi:id="_InJ-MY_tEeip-9dfeEA-3A"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_InJ-Mo_tEeip-9dfeEA-3A" fontName="Ubuntu" fontHeight="8"/>
+          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_InJ-M4_tEeip-9dfeEA-3A" points="[0, 0, 0, -49]$[0, 49, 0, 0]"/>
+          <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_InLMUI_tEeip-9dfeEA-3A" id="(0.5,1.0)"/>
+          <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_InLMUY_tEeip-9dfeEA-3A" id="(0.5,0.0)"/>
+        </edges>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_dmTuII_sEeip-9dfeEA-3A" name="theater" incomingEdges="_GB-rsI_tEeip-9dfeEA-3A" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="mindmup:Topic" href="Mindmap.xmi#//@relations.0"/>
+      <semanticElements xmi:type="mindmup:Topic" href="Mindmap.xmi#//@relations.0"/>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_dmab0I_sEeip-9dfeEA-3A" iconPath="/org.mindmap.odesign/icons/topic.png" labelPosition="node" color="209,209,209">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:SquareDescription" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@nodeMappings[name='TopicNode']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@nodeMappings[name='TopicNode']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_ttM5MI_sEeip-9dfeEA-3A" name="art" outgoingEdges="_GB-rsI_tEeip-9dfeEA-3A _Gw61UI_tEeip-9dfeEA-3A" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="mindmup:Topic" href="Mindmap.xmi#//@relations.1"/>
+      <semanticElements xmi:type="mindmup:Topic" href="Mindmap.xmi#//@relations.1"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_ttNgQI_sEeip-9dfeEA-3A" iconPath="/org.mindmap.odesign/icons/topic.png" labelPosition="node" color="209,209,209">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:SquareDescription" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@nodeMappings[name='TopicNode']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@nodeMappings[name='TopicNode']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_uuGVgI_sEeip-9dfeEA-3A" name="music" incomingEdges="_Gw61UI_tEeip-9dfeEA-3A" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="mindmup:Topic" href="Mindmap.xmi#//@relations.2"/>
+      <semanticElements xmi:type="mindmup:Topic" href="Mindmap.xmi#//@relations.2"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_uuGVgY_sEeip-9dfeEA-3A" iconPath="/org.mindmap.odesign/icons/topic.png" labelPosition="node" color="209,209,209">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:SquareDescription" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@nodeMappings[name='TopicNode']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@nodeMappings[name='TopicNode']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_vK4YII_sEeip-9dfeEA-3A" name="football" incomingEdges="_HRrZAI_tEeip-9dfeEA-3A" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="mindmup:Topic" href="Mindmap.xmi#//@relations.3"/>
+      <semanticElements xmi:type="mindmup:Topic" href="Mindmap.xmi#//@relations.3"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_vK4YIY_sEeip-9dfeEA-3A" iconPath="/org.mindmap.odesign/icons/topic.png" labelPosition="node" color="209,209,209">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:SquareDescription" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@nodeMappings[name='TopicNode']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@nodeMappings[name='TopicNode']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_v0FGII_sEeip-9dfeEA-3A" name="sport" outgoingEdges="_HRrZAI_tEeip-9dfeEA-3A _InCpcI_tEeip-9dfeEA-3A" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="mindmup:Topic" href="Mindmap.xmi#//@relations.4"/>
+      <semanticElements xmi:type="mindmup:Topic" href="Mindmap.xmi#//@relations.4"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_v0FGIY_sEeip-9dfeEA-3A" iconPath="/org.mindmap.odesign/icons/topic.png" labelPosition="node" color="209,209,209">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:SquareDescription" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@nodeMappings[name='TopicNode']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@nodeMappings[name='TopicNode']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_wcS8sI_sEeip-9dfeEA-3A" name="rugby" incomingEdges="_InCpcI_tEeip-9dfeEA-3A" width="3" height="3" resizeKind="NSEW">
+      <target xmi:type="mindmup:Topic" href="Mindmap.xmi#//@relations.5"/>
+      <semanticElements xmi:type="mindmup:Topic" href="Mindmap.xmi#//@relations.5"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:Square" xmi:id="_wcS8sY_sEeip-9dfeEA-3A" iconPath="/org.mindmap.odesign/icons/topic.png" labelPosition="node" color="209,209,209">
+        <labelFormat>bold</labelFormat>
+        <description xmi:type="style:SquareDescription" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@nodeMappings[name='TopicNode']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@nodeMappings[name='TopicNode']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_GB-rsI_tEeip-9dfeEA-3A" sourceNode="_ttM5MI_sEeip-9dfeEA-3A" targetNode="_dmTuII_sEeip-9dfeEA-3A">
+      <target xmi:type="mindmup:Relation" href="Mindmap.xmi#//@relations.6"/>
+      <semanticElements xmi:type="mindmup:Relation" href="Mindmap.xmi#//@relations.6"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_GCCWEI_tEeip-9dfeEA-3A" lineStyle="dash_dot" targetArrow="NoDecoration" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@edgeMappings[name='RelationEdge']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_GCCWEY_tEeip-9dfeEA-3A"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@edgeMappings[name='RelationEdge']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_Gw61UI_tEeip-9dfeEA-3A" sourceNode="_ttM5MI_sEeip-9dfeEA-3A" targetNode="_uuGVgI_sEeip-9dfeEA-3A">
+      <target xmi:type="mindmup:Relation" href="Mindmap.xmi#//@relations.7"/>
+      <semanticElements xmi:type="mindmup:Relation" href="Mindmap.xmi#//@relations.7"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_Gw8DcI_tEeip-9dfeEA-3A" lineStyle="dash_dot" targetArrow="NoDecoration" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@edgeMappings[name='RelationEdge']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_Gw8DcY_tEeip-9dfeEA-3A"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@edgeMappings[name='RelationEdge']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_HRrZAI_tEeip-9dfeEA-3A" sourceNode="_v0FGII_sEeip-9dfeEA-3A" targetNode="_vK4YII_sEeip-9dfeEA-3A">
+      <target xmi:type="mindmup:Relation" href="Mindmap.xmi#//@relations.8"/>
+      <semanticElements xmi:type="mindmup:Relation" href="Mindmap.xmi#//@relations.8"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_HRrZAY_tEeip-9dfeEA-3A" lineStyle="dash_dot" targetArrow="NoDecoration" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@edgeMappings[name='RelationEdge']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_HRrZAo_tEeip-9dfeEA-3A"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@edgeMappings[name='RelationEdge']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_InCpcI_tEeip-9dfeEA-3A" sourceNode="_v0FGII_sEeip-9dfeEA-3A" targetNode="_wcS8sI_sEeip-9dfeEA-3A">
+      <target xmi:type="mindmup:Relation" href="Mindmap.xmi#//@relations.9"/>
+      <semanticElements xmi:type="mindmup:Relation" href="Mindmap.xmi#//@relations.9"/>
+      <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_InCpcY_tEeip-9dfeEA-3A" lineStyle="dash_dot" targetArrow="NoDecoration" size="2">
+        <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@edgeMappings[name='RelationEdge']/@style"/>
+        <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_InDQgI_tEeip-9dfeEA-3A"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@edgeMappings[name='RelationEdge']"/>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_PrbutI_sEeip-9dfeEA-3A"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/org.mindmap.odesign/description/mindmup.odesign#//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer"/>
+    <target xmi:type="mindmup:Mindmap" href="Mindmap.xmi#/"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>
