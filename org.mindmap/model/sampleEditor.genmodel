@@ -9,12 +9,13 @@
       <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference sampleEditor.ecore#//Mindmap/topics"/>
       <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference sampleEditor.ecore#//Mindmap/relations"/>
     </genClasses>
-    <genClasses ecoreClass="sampleEditor.ecore#//Topic">
-      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute sampleEditor.ecore#//Topic/name"/>
-    </genClasses>
+    <genClasses ecoreClass="sampleEditor.ecore#//Topic"/>
     <genClasses ecoreClass="sampleEditor.ecore#//Relation">
       <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference sampleEditor.ecore#//Relation/source"/>
       <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference sampleEditor.ecore#//Relation/target"/>
+    </genClasses>
+    <genClasses ecoreClass="sampleEditor.ecore#//Parent">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute sampleEditor.ecore#//Parent/name"/>
     </genClasses>
   </genPackages>
 </genmodel:GenModel>
