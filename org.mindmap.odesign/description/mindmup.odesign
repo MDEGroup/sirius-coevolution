@@ -11,7 +11,7 @@
             <color xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='light_gray']"/>
           </style>
         </nodeMappings>
-        <edgeMappings name="RelationEdge" semanticCandidatesExpression="feature:relations" sourceMapping="//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@nodeMappings[name='TopicNode']" targetMapping="//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@nodeMappings[name='TopicNode']" targetFinderExpression="feature:target" sourceFinderExpression="feature:source" domainClass="Relation" useDomainElement="true">
+        <edgeMappings name="RelationEdge" semanticCandidatesExpression="feature:relations" sourceMapping="//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@nodeMappings[name='TopicNode']" targetMapping="//@ownedViewpoints[name='mindmupViewPoint']/@ownedRepresentations[name='mindmap']/@defaultLayer/@nodeMappings[name='TopicNode']" targetFinderExpression="feature:target" sourceFinderExpression="feature:source" domainClass="Relation1" useDomainElement="true">
           <style lineStyle="dash_dot" targetArrow="NoDecoration" sizeComputationExpression="2">
             <strokeColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='gray']"/>
             <centerLabelStyleDescription>
@@ -36,7 +36,7 @@
             <targetViewVariable name="targetView"/>
             <initialOperation>
               <firstModelOperations xsi:type="tool_1:ChangeContext" browseExpression="aql:source.eContainer()">
-                <subModelOperations xsi:type="tool_1:CreateInstance" typeName="mindmup::Relation" referenceName="relations">
+                <subModelOperations xsi:type="tool_1:CreateInstance" typeName="mindmup::Relation1" referenceName="relations">
                   <subModelOperations xsi:type="tool_1:SetValue" featureName="source" valueExpression="var:source"/>
                   <subModelOperations xsi:type="tool_1:SetValue" featureName="target" valueExpression="var:target"/>
                 </subModelOperations>
