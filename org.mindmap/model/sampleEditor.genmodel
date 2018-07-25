@@ -13,7 +13,6 @@
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute sampleEditor.ecore#//Topic/name"/>
     </genClasses>
     <genClasses ecoreClass="sampleEditor.ecore#//Relation">
-      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference sampleEditor.ecore#//Relation/source"/>
       <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference sampleEditor.ecore#//Relation/target"/>
     </genClasses>
   </genPackages>
